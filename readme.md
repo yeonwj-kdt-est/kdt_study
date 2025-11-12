@@ -4,7 +4,7 @@
 
 - [git처음설정](kdt_git_first/readme.md)
 
-- [marktext기본설명](kdt_marktest/readme.md)
+- [marktext기본설명](kdt_marktext/readme.md)
 
 - [vscode 설정](kdt_vscode_setting/readme.md)
 
